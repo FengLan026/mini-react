@@ -1,3 +1,5 @@
+// js pragma
+/**@jsx React.createElement */
 import React from './core/React.js'
 // const App = React.cteateElement('div', { id: 'App' }, '111', '222')
 const App = <div>123</div>
